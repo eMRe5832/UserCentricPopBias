@@ -1,1 +1,0 @@
-This repository includes the source code of the paper, which is titled "Evaluating unfairness of popularity bias in recommender systems: a comprehensive user-centric analysis" published in "Information Proccessing & Management " journal of Elsevier. 
