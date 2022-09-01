@@ -1,1 +1,1 @@
-You should first apply Aug, Mul and xQuad algorithms via VaR_ERPs.m and xQuad.m source files and stores results as the DB-DebiasingName.mat. Then, you should such constructed .mat files when evaluating the results via Main.m source file. 
+You should first apply the Aug, Mul, and xQuad algorithms via VaR_ERPs.m and xQuad.m source files and store results as the DB-DebiasingName.mat. Then, you should such constructed .mat files when evaluating the results via the Main.m source file. 
